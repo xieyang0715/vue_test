@@ -12,7 +12,6 @@ Vue.prototype.clipboard = clipboard;
 
 
 Vue.config.productionTip = false
-
 new Vue({
   render: h => h(App),
   router,
